@@ -111,4 +111,5 @@ class PublicController extends RestBaseController
 
         $this->success("退出成功!");
     }
+
 }
